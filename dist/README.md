@@ -40,6 +40,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 #### Footer
 Lindsay L. Libhart
 Libhartinc@gmail.com
-https://libhartll.github.io/
-GitHub Repository for Lindsay L. Libhart
+* GitHub Repository for Profile Generator
+* GitHub for Lindsay L. Libhart, 
 https://github.com/LibhartLL
