@@ -19,7 +19,7 @@ This project is created with:
 * Inquirer
 
 ## Screenshot
-Project screenshot Link to my deployed github page: https://libhartll.github.io/YesOrNo8Ball/
+Project screenshot Link to my deployed github page: https://libhartll.github.io/portfolio-generator/
 ![This is an image](./Assets/Images/yes-no.jpg)
 
 ## Credits
@@ -40,6 +40,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 #### Footer
 Lindsay L. Libhart
 Libhartinc@gmail.com
-* GitHub Repository for Profile Generator
+* GitHub Repository for Profile Generator, 
 * GitHub for Lindsay L. Libhart, 
 https://github.com/LibhartLL
