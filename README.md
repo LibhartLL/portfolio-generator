@@ -1,4 +1,4 @@
-# Yes or No Magic 8 Ball App
+# Profile Generator
 
 ## Table of contents
 * General info
