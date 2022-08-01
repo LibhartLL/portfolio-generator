@@ -20,7 +20,7 @@ This project is created with:
 
 ## Screenshot
 Project screenshot Link to my deployed github page: https://libhartll.github.io/portfolio-generator/
-![This is an image](./Assets/Images/yes-no.jpg)
+![This is an image](utils/F70AB277-FF8E-4BE3-BD54-A36CD43CE5F3_1_201_a.jpeg)
 
 ## Credits
 I consulted the following resources:
