@@ -41,5 +41,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 Lindsay L. Libhart
 Libhartinc@gmail.com
 * GitHub Repository for Profile Generator, 
+https://github.com/LibhartLL/portfolio-generator
 * GitHub for Lindsay L. Libhart, 
 https://github.com/LibhartLL
